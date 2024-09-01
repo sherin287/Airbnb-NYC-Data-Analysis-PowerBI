@@ -6,6 +6,7 @@ A company that provides an online platform for accommodation to guests,travelers
 # Objective of the project
 The project aims to understand how the propertylisting of Airbnb in New York depends on other parameters:
  It also aims to understand various things like 
+ 
  -> How many neighbourhood areas are there in NYC?
  -> How are rental properties distributed across the neighbourhoods of NYC?
  -> How do prices vary with respect neighbourhoods,rental property types and rental amentities?
