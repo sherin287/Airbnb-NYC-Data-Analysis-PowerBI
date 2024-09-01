@@ -8,8 +8,13 @@ The project aims to understand how the propertylisting of Airbnb in New York dep
  It also aims to understand various things like 
  
  -> How many neighbourhood areas are there in NYC?
+ 
  -> How are rental properties distributed across the neighbourhoods of NYC?
+ 
  -> How do prices vary with respect neighbourhoods,rental property types and rental amentities?
+ 
  -> How many revies are given to Particular Property?
+ 
  -> Who are the top 10 hosts in NYC and what kind of property do they have?
+ 
  -> What is the average price of different types of properties?
